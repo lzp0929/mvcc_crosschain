@@ -12,7 +12,7 @@
 
 namespace spectrum {
 
-constexpr size_t NUM_ACCOUNTS = 1000000;
+constexpr size_t NUM_ACCOUNTS = 500000;
 constexpr size_t NUM_THREADS = 4;
 constexpr double ZIPF_EXPONENT = 1.2;
 constexpr size_t RUN_SECONDS = 38;

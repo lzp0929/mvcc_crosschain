@@ -348,7 +348,7 @@ void TwoPhaseLockingCrossChainPro::Start() {
                 
                 // 重试计数器
                 int retry_count = 0;
-                const int MAX_RETRIES = 10;
+                const int MAX_RETRIES = 3;
                 bool success = false;
                 
                 while (retry_count < MAX_RETRIES && !stop_flag && !success) {
@@ -458,17 +458,28 @@ void TwoPhaseLockingCrossChainPro::Start() {
                     local_aborts++;
                     
                     // 记录中止交易信息
-                    {
+                    if (completed_tx_count.load() < 100) {
                         std::lock_guard<std::mutex> lock(tx_records_mutex);
-                        tx_records.push_back({
-                            tx_id,
-                            steady_clock::now(),
-                            steady_clock::now(),
-                            0,
-                            type,
-                            current_block_id.load(),
-                            true // 中止交易
-                        });
+                        if (tx_records.size() < 100) {
+                            tx_records.push_back({
+                                tx_id,
+                                steady_clock::now(),
+                                steady_clock::now(),
+                                0,
+                                type,
+                                current_block_id.load(),
+                                true // 中止交易
+                            });
+                            
+                            // 增加完成交易计数
+                            completed_tx_count.fetch_add(1);
+                            
+                            if (tx_records.size() == 100) {
+                                auto total_time = duration_cast<microseconds>(latest_finish_time - first_tx_time).count();
+                                LOG(INFO) << fmt::format("完成前100笔交易总耗时: {} 微秒 ({:.2f}秒)",
+                                    total_time, total_time / 1000000.0);
+                            }
+                        }
                     }
                     
                     // 增加区块中止交易计数
@@ -565,21 +576,21 @@ void TwoPhaseLockingCrossChainPro::Stop() {
             first_tx_time.time_since_epoch()).count();
         latency_log << "第一笔交易开始时间: " << first_tx_start_us << " 微秒\n";
         
-        // 最后一笔交易完成时间（包含跨链延迟）
-        auto last_tx_time = std::max(latest_finish_time, latest_cross_chain_finish_time);
+        // 找到第100笔交易的完成时间
+        auto hundredth_tx_finish_time = tx_records[99].finish_time;
         auto last_tx_finish_us = duration_cast<microseconds>(
-            last_tx_time.time_since_epoch()).count();
+            hundredth_tx_finish_time.time_since_epoch()).count();
         latency_log << "最后一笔交易完成时间: " << last_tx_finish_us << " 微秒\n";
         
         // 计算总执行时间（包含跨链延迟）
         auto total_time_with_delay = duration_cast<microseconds>(
-            last_tx_time - first_tx_time).count();
+            hundredth_tx_finish_time - first_tx_time).count();
         latency_log << "前100笔交易总执行时间(包含跨链延迟): " 
                    << total_time_with_delay << " 微秒\n";
         
         // 计算总执行时间（不含跨链延迟）
         auto total_time = duration_cast<microseconds>(
-            latest_finish_time - first_tx_time).count();
+            hundredth_tx_finish_time - first_tx_time).count();
         latency_log << "前100笔交易总执行时间(不含跨链延迟): " 
                    << total_time << " 微秒\n";
         

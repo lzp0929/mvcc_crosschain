@@ -26,8 +26,6 @@ Makefile
 deps/
 third_party/
 
-# Log files
-*.log
 
 # System files
 .DS_Store
@@ -79,4 +77,4 @@ perf*
 **/__pycache__
 .cache
 *.ans
-.vscode
+.vscode!logs/*.log

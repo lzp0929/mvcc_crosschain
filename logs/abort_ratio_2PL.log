@@ -18566,3 +18566,9543 @@ latency(75%)       0us
 latency(95%)       363657us
 latency(99%)       2350373us
 
+
+
+========== 测试时间: 2025-05-05 22:09:30 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 33秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:10:03.860288890
+commit             84
+memory             0
+execution          199
+operation          95088
+transaction        91
+abort              7
+abort_rate         7.69%
+25us               0
+50us               0
+100us              0
+>100us             84
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       326377us
+latency(99%)       2321365us
+
+
+
+========== 测试时间: 2025-05-05 22:09:31 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 33秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:10:06.113176043
+commit             71
+memory             0
+execution          189
+operation          80372
+transaction        74
+abort              3
+abort_rate         4.05%
+25us               0
+50us               0
+100us              0
+>100us             71
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       247839us
+latency(99%)       2307960us
+
+
+
+========== 测试时间: 2025-05-05 22:09:32 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 33秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:10:06.566138240
+commit             82
+memory             0
+execution          198
+operation          92824
+transaction        87
+abort              5
+abort_rate         5.75%
+25us               0
+50us               0
+100us              0
+>100us             82
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       300765us
+latency(99%)       2300092us
+
+
+
+========== 测试时间: 2025-05-05 22:09:32 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 33秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:10:08.203304342
+commit             73
+memory             0
+execution          199
+operation          82636
+transaction        75
+abort              2
+abort_rate         2.67%
+25us               0
+50us               0
+100us              0
+>100us             73
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       324762us
+latency(99%)       2226754us
+
+
+
+========== 测试时间: 2025-05-05 22:09:33 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 33秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:10:08.812724825
+commit             71
+memory             0
+execution          186
+operation          80372
+transaction        72
+abort              1
+abort_rate         1.39%
+25us               0
+50us               0
+100us              0
+>100us             71
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       266636us
+latency(99%)       2362983us
+
+
+
+========== 测试时间: 2025-05-05 22:09:34 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 33秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:10:09.545241829
+commit             72
+memory             0
+execution          194
+operation          81504
+transaction        76
+abort              4
+abort_rate         5.26%
+25us               0
+50us               0
+100us              0
+>100us             72
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       271406us
+latency(99%)       2341933us
+
+
+
+========== 测试时间: 2025-05-05 22:09:36 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 33秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:10:11.373028309
+commit             74
+memory             0
+execution          199
+operation          83768
+transaction        78
+abort              4
+abort_rate         5.13%
+25us               0
+50us               0
+100us              0
+>100us             74
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       250164us
+latency(99%)       2250494us
+
+
+
+========== 测试时间: 2025-05-05 22:09:37 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 33秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:10:12.874958694
+commit             83
+memory             0
+execution          196
+operation          93956
+transaction        85
+abort              2
+abort_rate         2.35%
+25us               0
+50us               0
+100us              0
+>100us             83
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       284671us
+latency(99%)       2216092us
+
+
+
+========== 测试时间: 2025-05-05 22:09:39 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 33秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:10:13.520908250
+commit             91
+memory             0
+execution          189
+operation          103012
+transaction        93
+abort              2
+abort_rate         2.15%
+25us               0
+50us               0
+100us              0
+>100us             91
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       336058us
+latency(99%)       2394701us
+
+
+
+========== 测试时间: 2025-05-05 22:09:39 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 33秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:10:14.680406377
+commit             84
+memory             0
+execution          196
+operation          95088
+transaction        88
+abort              4
+abort_rate         4.55%
+25us               0
+50us               0
+100us              0
+>100us             84
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       229863us
+latency(99%)       2296210us
+
+
+
+========== 测试时间: 2025-05-05 22:10:26 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:11:06.803848447
+commit             84
+memory             0
+execution          248
+operation          95088
+transaction        95
+abort              11
+abort_rate         11.58%
+25us               0
+50us               0
+100us              0
+>100us             84
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       274165us
+latency(99%)       2235109us
+
+
+
+========== 测试时间: 2025-05-05 22:10:25 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:11:07.339530627
+commit             87
+memory             0
+execution          248
+operation          98484
+transaction        94
+abort              7
+abort_rate         7.45%
+25us               0
+50us               0
+100us              0
+>100us             87
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       288435us
+latency(99%)       2369614us
+
+
+
+========== 测试时间: 2025-05-05 22:10:27 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:11:08.132442617
+commit             89
+memory             0
+execution          230
+operation          100748
+transaction        96
+abort              7
+abort_rate         7.29%
+25us               0
+50us               0
+100us              0
+>100us             89
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       335312us
+latency(99%)       2302196us
+
+
+
+========== 测试时间: 2025-05-05 22:10:29 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:11:09.260473143
+commit             99
+memory             0
+execution          240
+operation          112068
+transaction        102
+abort              3
+abort_rate         2.94%
+25us               0
+50us               0
+100us              0
+>100us             99
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       354258us
+latency(99%)       2371763us
+
+
+
+========== 测试时间: 2025-05-05 22:10:27 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:11:09.309569736
+commit             106
+memory             0
+execution          213
+operation          119992
+transaction        108
+abort              2
+abort_rate         1.85%
+25us               0
+50us               0
+100us              0
+>100us             106
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       425600us
+latency(99%)       2410684us
+
+
+
+========== 测试时间: 2025-05-05 22:10:28 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:11:10.645878753
+commit             89
+memory             0
+execution          227
+operation          100748
+transaction        92
+abort              3
+abort_rate         3.26%
+25us               0
+50us               0
+100us              0
+>100us             89
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       314851us
+latency(99%)       2360672us
+
+
+
+========== 测试时间: 2025-05-05 22:10:32 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:11:14.841980229
+commit             83
+memory             0
+execution          233
+operation          93956
+transaction        86
+abort              3
+abort_rate         3.49%
+25us               0
+50us               0
+100us              0
+>100us             83
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       290522us
+latency(99%)       2339367us
+
+
+
+========== 测试时间: 2025-05-05 22:10:35 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:11:17.032934386
+commit             66
+memory             0
+execution          244
+operation          74712
+transaction        71
+abort              5
+abort_rate         7.04%
+25us               0
+50us               0
+100us              0
+>100us             66
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       251611us
+latency(99%)       491096us
+
+
+
+========== 测试时间: 2025-05-05 22:10:36 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:11:18.021620265
+commit             68
+memory             0
+execution          248
+operation          76976
+transaction        72
+abort              4
+abort_rate         5.56%
+25us               0
+50us               0
+100us              0
+>100us             68
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       316835us
+latency(99%)       495472us
+
+
+
+========== 测试时间: 2025-05-05 22:10:37 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:11:19.236304646
+commit             99
+memory             0
+execution          250
+operation          112068
+transaction        103
+abort              4
+abort_rate         3.88%
+25us               0
+50us               0
+100us              0
+>100us             99
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       290059us
+latency(99%)       2339476us
+
+
+
+========== 测试时间: 2025-05-05 22:11:33 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:12:14.896028333
+commit             178
+memory             0
+execution          318
+operation          201496
+transaction        178
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             178
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       416216us
+latency(99%)       2370470us
+
+
+
+========== 测试时间: 2025-05-05 22:11:34 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:12:15.620823561
+commit             207
+memory             0
+execution          326
+operation          234324
+transaction        207
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             207
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       418983us
+latency(99%)       2364751us
+
+
+
+========== 测试时间: 2025-05-05 22:11:35 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:12:15.755061903
+commit             192
+memory             0
+execution          332
+operation          217344
+transaction        196
+abort              4
+abort_rate         2.04%
+25us               0
+50us               0
+100us              0
+>100us             192
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       424782us
+latency(99%)       2301872us
+
+
+
+========== 测试时间: 2025-05-05 22:11:34 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:12:16.719728088
+commit             203
+memory             0
+execution          312
+operation          229796
+transaction        204
+abort              1
+abort_rate         0.49%
+25us               0
+50us               0
+100us              0
+>100us             203
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       453210us
+latency(99%)       2325926us
+
+
+
+========== 测试时间: 2025-05-05 22:11:37 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:12:19.917595648
+commit             174
+memory             0
+execution          318
+operation          196968
+transaction        174
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             174
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       398500us
+latency(99%)       2369174us
+
+
+
+========== 测试时间: 2025-05-05 22:16:00 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:16:30.573494848
+commit             118
+memory             0
+execution          257
+operation          133576
+transaction        121
+abort              3
+abort_rate         2.48%
+25us               0
+50us               0
+100us              0
+>100us             118
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       392938us
+latency(99%)       481399us
+
+
+
+========== 测试时间: 2025-05-05 22:16:01 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:16:31.683748353
+commit             110
+memory             0
+execution          252
+operation          124520
+transaction        111
+abort              1
+abort_rate         0.90%
+25us               0
+50us               0
+100us              0
+>100us             110
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       389239us
+latency(99%)       485291us
+
+
+
+========== 测试时间: 2025-05-05 22:16:02 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:16:32.548222258
+commit             106
+memory             0
+execution          253
+operation          119992
+transaction        110
+abort              4
+abort_rate         3.64%
+25us               0
+50us               0
+100us              0
+>100us             106
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       368887us
+latency(99%)       474051us
+
+
+
+========== 测试时间: 2025-05-05 22:16:03 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:16:33.316052397
+commit             104
+memory             0
+execution          250
+operation          117728
+transaction        108
+abort              4
+abort_rate         3.70%
+25us               0
+50us               0
+100us              0
+>100us             104
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       389050us
+latency(99%)       481095us
+
+
+
+========== 测试时间: 2025-05-05 22:16:03 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:16:34.188587106
+commit             91
+memory             0
+execution          248
+operation          103012
+transaction        93
+abort              2
+abort_rate         2.15%
+25us               0
+50us               0
+100us              0
+>100us             91
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       347109us
+latency(99%)       477990us
+
+
+
+========== 测试时间: 2025-05-05 22:16:04 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:16:35.073226371
+commit             100
+memory             0
+execution          252
+operation          113200
+transaction        100
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             100
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       358773us
+latency(99%)       474972us
+
+
+
+========== 测试时间: 2025-05-05 22:17:26 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:17:56.510812968
+commit             97
+memory             0
+execution          249
+operation          109804
+transaction        102
+abort              5
+abort_rate         4.90%
+25us               0
+50us               0
+100us              0
+>100us             97
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       356971us
+latency(99%)       460338us
+
+
+
+========== 测试时间: 2025-05-05 22:17:27 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:17:57.621650394
+commit             98
+memory             0
+execution          242
+operation          110936
+transaction        103
+abort              5
+abort_rate         4.85%
+25us               0
+50us               0
+100us              0
+>100us             98
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       373679us
+latency(99%)       475146us
+
+
+
+========== 测试时间: 2025-05-05 22:17:27 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:17:57.995853169
+commit             97
+memory             0
+execution          238
+operation          109804
+transaction        100
+abort              3
+abort_rate         3.00%
+25us               0
+50us               0
+100us              0
+>100us             97
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       374069us
+latency(99%)       460461us
+
+
+
+========== 测试时间: 2025-05-05 22:17:28 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:17:58.765109533
+commit             102
+memory             0
+execution          237
+operation          115464
+transaction        106
+abort              4
+abort_rate         3.77%
+25us               0
+50us               0
+100us              0
+>100us             102
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       376138us
+latency(99%)       468878us
+
+
+
+========== 测试时间: 2025-05-05 22:18:11 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:18:41.337384813
+commit             193
+memory             0
+execution          329
+operation          218476
+transaction        195
+abort              2
+abort_rate         1.03%
+25us               0
+50us               0
+100us              0
+>100us             193
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       403154us
+latency(99%)       485993us
+
+
+
+========== 测试时间: 2025-05-05 22:19:28 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:19:58.983850992
+commit             118
+memory             0
+execution          273
+operation          133576
+transaction        121
+abort              3
+abort_rate         2.48%
+25us               0
+50us               0
+100us              0
+>100us             118
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       366687us
+latency(99%)       478074us
+
+
+
+========== 测试时间: 2025-05-05 22:19:30 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:20:00.266058939
+commit             120
+memory             0
+execution          269
+operation          135840
+transaction        122
+abort              2
+abort_rate         1.64%
+25us               0
+50us               0
+100us              0
+>100us             120
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       381990us
+latency(99%)       478282us
+
+
+
+========== 测试时间: 2025-05-05 22:19:31 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:20:01.316772365
+commit             111
+memory             0
+execution          269
+operation          125652
+transaction        116
+abort              5
+abort_rate         4.31%
+25us               0
+50us               0
+100us              0
+>100us             111
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       376030us
+latency(99%)       480189us
+
+
+
+========== 测试时间: 2025-05-05 22:22:51 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:23:22.139219009
+commit             124
+memory             0
+execution          273
+operation          140368
+transaction        128
+abort              4
+abort_rate         3.12%
+25us               0
+50us               0
+100us              0
+>100us             124
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       399124us
+latency(99%)       481509us
+
+
+
+========== 测试时间: 2025-05-05 22:22:55 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:23:25.344296877
+commit             123
+memory             0
+execution          269
+operation          139236
+transaction        123
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             123
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       397131us
+latency(99%)       487448us
+
+
+
+========== 测试时间: 2025-05-05 22:23:46 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:24:17.077976957
+commit             139
+memory             0
+execution          279
+operation          157348
+transaction        142
+abort              3
+abort_rate         2.11%
+25us               0
+50us               0
+100us              0
+>100us             139
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       403276us
+latency(99%)       491407us
+
+
+
+========== 测试时间: 2025-05-05 22:23:50 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:24:20.914284921
+commit             131
+memory             0
+execution          272
+operation          148292
+transaction        133
+abort              2
+abort_rate         1.50%
+25us               0
+50us               0
+100us              0
+>100us             131
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       386911us
+latency(99%)       486975us
+
+
+
+========== 测试时间: 2025-05-05 22:23:52 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:24:22.353839602
+commit             132
+memory             0
+execution          272
+operation          149424
+transaction        133
+abort              1
+abort_rate         0.75%
+25us               0
+50us               0
+100us              0
+>100us             132
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       396344us
+latency(99%)       489384us
+
+
+
+========== 测试时间: 2025-05-05 22:24:28 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:24:59.203181886
+commit             135
+memory             0
+execution          290
+operation          152820
+transaction        137
+abort              2
+abort_rate         1.46%
+25us               0
+50us               0
+100us              0
+>100us             135
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       386339us
+latency(99%)       476455us
+
+
+
+========== 测试时间: 2025-05-05 22:24:30 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:25:00.749304980
+commit             143
+memory             0
+execution          290
+operation          161876
+transaction        146
+abort              3
+abort_rate         2.05%
+25us               0
+50us               0
+100us              0
+>100us             143
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       389948us
+latency(99%)       479323us
+
+
+
+========== 测试时间: 2025-05-05 22:24:31 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:25:01.834937899
+commit             144
+memory             0
+execution          286
+operation          163008
+transaction        145
+abort              1
+abort_rate         0.69%
+25us               0
+50us               0
+100us              0
+>100us             144
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       391727us
+latency(99%)       474705us
+
+
+
+========== 测试时间: 2025-05-05 22:25:41 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:26:12.268681583
+commit             158
+memory             0
+execution          283
+operation          178856
+transaction        159
+abort              1
+abort_rate         0.63%
+25us               0
+50us               0
+100us              0
+>100us             158
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       393147us
+latency(99%)       492607us
+
+
+
+========== 测试时间: 2025-05-05 22:25:43 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:26:14.508624540
+commit             161
+memory             0
+execution          278
+operation          182252
+transaction        161
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             161
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       395428us
+latency(99%)       491586us
+
+
+
+========== 测试时间: 2025-05-05 22:25:45 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:26:15.333922445
+commit             156
+memory             0
+execution          278
+operation          176592
+transaction        158
+abort              2
+abort_rate         1.27%
+25us               0
+50us               0
+100us              0
+>100us             156
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       373983us
+latency(99%)       2144670us
+
+
+
+========== 测试时间: 2025-05-05 22:25:46 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:26:18.280378204
+commit             118
+memory             0
+execution          278
+operation          133576
+transaction        120
+abort              2
+abort_rate         1.67%
+25us               0
+50us               0
+100us              0
+>100us             118
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       370017us
+latency(99%)       466504us
+
+
+
+========== 测试时间: 2025-05-05 22:27:07 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:27:37.946379519
+commit             123
+memory             0
+execution          252
+operation          139236
+transaction        126
+abort              3
+abort_rate         2.38%
+25us               0
+50us               0
+100us              0
+>100us             123
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       386440us
+latency(99%)       483047us
+
+
+
+========== 测试时间: 2025-05-05 22:27:08 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:27:38.834859178
+commit             114
+memory             0
+execution          249
+operation          129048
+transaction        119
+abort              5
+abort_rate         4.20%
+25us               0
+50us               0
+100us              0
+>100us             114
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       378787us
+latency(99%)       496490us
+
+
+
+========== 测试时间: 2025-05-05 22:27:09 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:27:41.053036272
+commit             122
+memory             0
+execution          249
+operation          138104
+transaction        125
+abort              3
+abort_rate         2.40%
+25us               0
+50us               0
+100us              0
+>100us             122
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       390786us
+latency(99%)       480475us
+
+
+
+========== 测试时间: 2025-05-05 22:27:10 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:27:41.092162705
+commit             104
+memory             0
+execution          244
+operation          117728
+transaction        106
+abort              2
+abort_rate         1.89%
+25us               0
+50us               0
+100us              0
+>100us             104
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       361964us
+latency(99%)       480072us
+
+
+
+========== 测试时间: 2025-05-05 22:27:10 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:27:41.891402625
+commit             101
+memory             0
+execution          245
+operation          114332
+transaction        102
+abort              1
+abort_rate         0.98%
+25us               0
+50us               0
+100us              0
+>100us             101
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       378894us
+latency(99%)       492328us
+
+
+
+========== 测试时间: 2025-05-05 22:28:35 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:29:07.146829899
+commit             157
+memory             0
+execution          275
+operation          177724
+transaction        157
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             157
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       384854us
+latency(99%)       2239365us
+
+
+
+========== 测试时间: 2025-05-05 22:28:36 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:29:07.225758670
+commit             154
+memory             0
+execution          275
+operation          174328
+transaction        158
+abort              4
+abort_rate         2.53%
+25us               0
+50us               0
+100us              0
+>100us             154
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       372906us
+latency(99%)       2292538us
+
+
+
+========== 测试时间: 2025-05-05 22:28:39 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:29:09.487872355
+commit             159
+memory             0
+execution          272
+operation          179988
+transaction        161
+abort              2
+abort_rate         1.24%
+25us               0
+50us               0
+100us              0
+>100us             159
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       384002us
+latency(99%)       2237142us
+
+
+
+========== 测试时间: 2025-05-05 22:28:38 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:29:09.964131522
+commit             163
+memory             0
+execution          271
+operation          184516
+transaction        163
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             163
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       389513us
+latency(99%)       2279614us
+
+
+
+========== 测试时间: 2025-05-05 22:29:52 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:30:22.908058564
+commit             137
+memory             0
+execution          252
+operation          155084
+transaction        138
+abort              1
+abort_rate         0.72%
+25us               0
+50us               0
+100us              0
+>100us             137
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       402315us
+latency(99%)       2154904us
+
+
+
+========== 测试时间: 2025-05-05 22:29:51 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:30:23.412120512
+commit             140
+memory             0
+execution          254
+operation          158480
+transaction        140
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             140
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       381652us
+latency(99%)       2109527us
+
+
+
+========== 测试时间: 2025-05-05 22:29:54 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:30:24.914476254
+commit             135
+memory             0
+execution          254
+operation          152820
+transaction        136
+abort              1
+abort_rate         0.74%
+25us               0
+50us               0
+100us              0
+>100us             135
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       396187us
+latency(99%)       483180us
+
+
+
+========== 测试时间: 2025-05-05 22:29:53 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:30:25.471020040
+commit             137
+memory             0
+execution          254
+operation          155084
+transaction        139
+abort              2
+abort_rate         1.44%
+25us               0
+50us               0
+100us              0
+>100us             137
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       385234us
+latency(99%)       2312011us
+
+
+
+========== 测试时间: 2025-05-05 22:29:55 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:30:25.951231403
+commit             123
+memory             0
+execution          243
+operation          139236
+transaction        123
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             123
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       381380us
+latency(99%)       540779us
+
+
+
+========== 测试时间: 2025-05-05 22:31:47 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:32:17.226264627
+commit             144
+memory             0
+execution          253
+operation          163008
+transaction        147
+abort              3
+abort_rate         2.04%
+25us               0
+50us               0
+100us              0
+>100us             144
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       369993us
+latency(99%)       2273896us
+
+
+
+========== 测试时间: 2025-05-05 22:31:49 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:32:19.620797723
+commit             149
+memory             0
+execution          257
+operation          168668
+transaction        150
+abort              1
+abort_rate         0.67%
+25us               0
+50us               0
+100us              0
+>100us             149
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       405637us
+latency(99%)       2224548us
+
+
+
+========== 测试时间: 2025-05-05 22:31:48 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:32:20.048959257
+commit             126
+memory             0
+execution          254
+operation          142632
+transaction        127
+abort              1
+abort_rate         0.79%
+25us               0
+50us               0
+100us              0
+>100us             126
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       359766us
+latency(99%)       2101927us
+
+
+
+========== 测试时间: 2025-05-05 22:31:51 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:32:21.285163812
+commit             130
+memory             0
+execution          260
+operation          147160
+transaction        133
+abort              3
+abort_rate         2.26%
+25us               0
+50us               0
+100us              0
+>100us             130
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       370218us
+latency(99%)       497975us
+
+
+
+========== 测试时间: 2025-05-05 22:31:52 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:32:22.811894618
+commit             137
+memory             0
+execution          261
+operation          155084
+transaction        138
+abort              1
+abort_rate         0.72%
+25us               0
+50us               0
+100us              0
+>100us             137
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       369317us
+latency(99%)       2294794us
+
+
+
+========== 测试时间: 2025-05-05 22:32:34 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:33:04.544508034
+commit             138
+memory             0
+execution          261
+operation          156216
+transaction        138
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             138
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       359902us
+latency(99%)       2240042us
+
+
+
+========== 测试时间: 2025-05-05 22:32:35 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:33:06.542370007
+commit             132
+memory             0
+execution          229
+operation          149424
+transaction        133
+abort              1
+abort_rate         0.75%
+25us               0
+50us               0
+100us              0
+>100us             132
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       379503us
+latency(99%)       2306022us
+
+
+
+========== 测试时间: 2025-05-05 22:32:36 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:33:07.022055424
+commit             133
+memory             0
+execution          249
+operation          150556
+transaction        134
+abort              1
+abort_rate         0.75%
+25us               0
+50us               0
+100us              0
+>100us             133
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       372121us
+latency(99%)       2268624us
+
+
+
+========== 测试时间: 2025-05-05 22:32:38 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:33:08.222151636
+commit             120
+memory             0
+execution          249
+operation          135840
+transaction        123
+abort              3
+abort_rate         2.44%
+25us               0
+50us               0
+100us              0
+>100us             120
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       336835us
+latency(99%)       2349251us
+
+
+
+========== 测试时间: 2025-05-05 22:32:37 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:33:08.386573893
+commit             129
+memory             0
+execution          245
+operation          146028
+transaction        129
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             129
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       389263us
+latency(99%)       2319072us
+
+
+
+========== 测试时间: 2025-05-05 22:34:25 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:34:57.515794129
+commit             144
+memory             0
+execution          232
+operation          163008
+transaction        145
+abort              1
+abort_rate         0.69%
+25us               0
+50us               0
+100us              0
+>100us             144
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       354465us
+latency(99%)       2401970us
+
+
+
+========== 测试时间: 2025-05-05 22:34:27 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:34:58.153696040
+commit             123
+memory             0
+execution          236
+operation          139236
+transaction        123
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             123
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       361939us
+latency(99%)       2322923us
+
+
+
+========== 测试时间: 2025-05-05 22:34:26 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:34:58.455509441
+commit             142
+memory             0
+execution          240
+operation          160744
+transaction        144
+abort              2
+abort_rate         1.39%
+25us               0
+50us               0
+100us              0
+>100us             142
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       331355us
+latency(99%)       2342588us
+
+
+
+========== 测试时间: 2025-05-05 22:34:28 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:34:59.022590786
+commit             123
+memory             0
+execution          228
+operation          139236
+transaction        124
+abort              1
+abort_rate         0.81%
+25us               0
+50us               0
+100us              0
+>100us             123
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       354678us
+latency(99%)       2317091us
+
+
+
+========== 测试时间: 2025-05-05 22:34:29 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:35:01.086124088
+commit             136
+memory             0
+execution          225
+operation          153952
+transaction        137
+abort              1
+abort_rate         0.73%
+25us               0
+50us               0
+100us              0
+>100us             136
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       339108us
+latency(99%)       2311372us
+
+
+
+========== 测试时间: 2025-05-05 22:34:30 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:35:02.596238719
+commit             120
+memory             0
+execution          239
+operation          135840
+transaction        123
+abort              3
+abort_rate         2.44%
+25us               0
+50us               0
+100us              0
+>100us             120
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       329173us
+latency(99%)       2336239us
+
+
+
+========== 测试时间: 2025-05-05 22:35:15 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:35:45.380329969
+commit             127
+memory             0
+execution          231
+operation          143764
+transaction        130
+abort              3
+abort_rate         2.31%
+25us               0
+50us               0
+100us              0
+>100us             127
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       363663us
+latency(99%)       2235718us
+
+
+
+========== 测试时间: 2025-05-05 22:35:16 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:35:46.610209976
+commit             136
+memory             0
+execution          237
+operation          153952
+transaction        139
+abort              3
+abort_rate         2.16%
+25us               0
+50us               0
+100us              0
+>100us             136
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       352112us
+latency(99%)       2280077us
+
+
+
+========== 测试时间: 2025-05-05 22:35:16 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:35:47.658767797
+commit             129
+memory             0
+execution          239
+operation          146028
+transaction        130
+abort              1
+abort_rate         0.77%
+25us               0
+50us               0
+100us              0
+>100us             129
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       342227us
+latency(99%)       2320968us
+
+
+
+========== 测试时间: 2025-05-05 22:35:18 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:35:48.951916359
+commit             154
+memory             0
+execution          241
+operation          174328
+transaction        156
+abort              2
+abort_rate         1.28%
+25us               0
+50us               0
+100us              0
+>100us             154
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       331677us
+latency(99%)       2306558us
+
+
+
+========== 测试时间: 2025-05-05 22:35:17 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:35:49.319434818
+commit             125
+memory             0
+execution          239
+operation          141500
+transaction        126
+abort              1
+abort_rate         0.79%
+25us               0
+50us               0
+100us              0
+>100us             125
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       351579us
+latency(99%)       2370268us
+
+
+
+========== 测试时间: 2025-05-05 22:35:18 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:35:50.211748655
+commit             151
+memory             0
+execution          231
+operation          170932
+transaction        153
+abort              2
+abort_rate         1.31%
+25us               0
+50us               0
+100us              0
+>100us             151
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       372627us
+latency(99%)       2392501us
+
+
+
+========== 测试时间: 2025-05-05 22:36:44 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:37:14.326781794
+commit             128
+memory             0
+execution          280
+operation          144896
+transaction        131
+abort              3
+abort_rate         2.29%
+25us               0
+50us               0
+100us              0
+>100us             128
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       385104us
+latency(99%)       482750us
+
+
+
+========== 测试时间: 2025-05-05 22:36:45 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:37:15.692880735
+commit             134
+memory             0
+execution          277
+operation          151688
+transaction        137
+abort              3
+abort_rate         2.19%
+25us               0
+50us               0
+100us              0
+>100us             134
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       365886us
+latency(99%)       455074us
+
+
+
+========== 测试时间: 2025-05-05 22:36:46 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:37:16.514853064
+commit             132
+memory             0
+execution          271
+operation          149424
+transaction        134
+abort              2
+abort_rate         1.49%
+25us               0
+50us               0
+100us              0
+>100us             132
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       379188us
+latency(99%)       475202us
+
+
+
+========== 测试时间: 2025-05-05 22:36:48 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:37:18.564003687
+commit             119
+memory             0
+execution          271
+operation          134708
+transaction        120
+abort              1
+abort_rate         0.83%
+25us               0
+50us               0
+100us              0
+>100us             119
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       349115us
+latency(99%)       461608us
+
+
+
+========== 测试时间: 2025-05-05 22:39:08 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:39:39.998760282
+commit             137
+memory             0
+execution          230
+operation          155084
+transaction        139
+abort              2
+abort_rate         1.44%
+25us               0
+50us               0
+100us              0
+>100us             137
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       322170us
+latency(99%)       2386082us
+
+
+
+========== 测试时间: 2025-05-05 22:39:09 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:39:40.529470767
+commit             144
+memory             0
+execution          237
+operation          163008
+transaction        144
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             144
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       325131us
+latency(99%)       2293642us
+
+
+
+========== 测试时间: 2025-05-05 22:39:10 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:39:41.021850629
+commit             152
+memory             0
+execution          243
+operation          172064
+transaction        152
+abort              0
+abort_rate         0.00%
+25us               0
+50us               0
+100us              0
+>100us             152
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       355734us
+latency(99%)       2278825us
+
+
+
+========== 测试时间: 2025-05-05 22:39:11 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:39:41.641741958
+commit             128
+memory             0
+execution          225
+operation          144896
+transaction        132
+abort              4
+abort_rate         3.03%
+25us               0
+50us               0
+100us              0
+>100us             128
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       349184us
+latency(99%)       2356380us
+
+
+
+========== 测试时间: 2025-05-05 22:39:12 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:39:42.468829553
+commit             133
+memory             0
+execution          227
+operation          150556
+transaction        136
+abort              3
+abort_rate         2.21%
+25us               0
+50us               0
+100us              0
+>100us             133
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       301784us
+latency(99%)       2314292us
+
+
+
+========== 测试时间: 2025-05-05 22:40:53 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:41:25.848392735
+commit             103
+memory             0
+execution          254
+operation          116596
+transaction        106
+abort              3
+abort_rate         2.83%
+25us               0
+50us               0
+100us              0
+>100us             103
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       318883us
+latency(99%)       2276216us
+
+
+
+========== 测试时间: 2025-05-05 22:40:55 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:41:26.247388287
+commit             98
+memory             0
+execution          243
+operation          110936
+transaction        101
+abort              3
+abort_rate         2.97%
+25us               0
+50us               0
+100us              0
+>100us             98
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       298844us
+latency(99%)       2275090us
+
+
+
+========== 测试时间: 2025-05-05 22:40:55 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:41:26.936176650
+commit             108
+memory             0
+execution          250
+operation          122256
+transaction        109
+abort              1
+abort_rate         0.92%
+25us               0
+50us               0
+100us              0
+>100us             108
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       318970us
+latency(99%)       2306139us
+
+
+
+========== 测试时间: 2025-05-05 22:40:58 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:41:28.548707180
+commit             92
+memory             0
+execution          250
+operation          104144
+transaction        93
+abort              1
+abort_rate         1.08%
+25us               0
+50us               0
+100us              0
+>100us             92
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       276143us
+latency(99%)       2278294us
+
+
+
+========== 测试时间: 2025-05-05 22:40:56 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 30秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:41:28.778592062
+commit             83
+memory             0
+execution          238
+operation          93956
+transaction        84
+abort              1
+abort_rate         1.19%
+25us               0
+50us               0
+100us              0
+>100us             83
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       288100us
+latency(99%)       2349887us
+
+
+
+========== 测试时间: 2025-05-05 22:41:53 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:42:29.822872777
+commit             132
+memory             0
+execution          318
+operation          149424
+transaction        135
+abort              3
+abort_rate         2.22%
+25us               0
+50us               0
+100us              0
+>100us             132
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       334857us
+latency(99%)       2311836us
+
+
+
+========== 测试时间: 2025-05-05 22:41:55 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:42:31.982890538
+commit             126
+memory             0
+execution          322
+operation          142632
+transaction        128
+abort              2
+abort_rate         1.56%
+25us               0
+50us               0
+100us              0
+>100us             126
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       343279us
+latency(99%)       2320520us
+
+
+
+========== 测试时间: 2025-05-05 22:41:58 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:42:34.528031019
+commit             128
+memory             0
+execution          300
+operation          144896
+transaction        130
+abort              2
+abort_rate         1.54%
+25us               0
+50us               0
+100us              0
+>100us             128
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       372712us
+latency(99%)       2323975us
+
+
+
+========== 测试时间: 2025-05-05 22:41:56 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:42:34.765170281
+commit             126
+memory             0
+execution          308
+operation          142632
+transaction        127
+abort              1
+abort_rate         0.79%
+25us               0
+50us               0
+100us              0
+>100us             126
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       358054us
+latency(99%)       2310089us
+
+
+
+========== 测试时间: 2025-05-05 22:41:59 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:42:37.243651342
+commit             129
+memory             0
+execution          334
+operation          146028
+transaction        132
+abort              3
+abort_rate         2.27%
+25us               0
+50us               0
+100us              0
+>100us             129
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       332952us
+latency(99%)       2355021us
+
+
+
+========== 测试时间: 2025-05-05 22:42:50 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:43:27.391752525
+commit             140
+memory             0
+execution          309
+operation          158480
+transaction        141
+abort              1
+abort_rate         0.71%
+25us               0
+50us               0
+100us              0
+>100us             140
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       348900us
+latency(99%)       2286700us
+
+
+
+========== 测试时间: 2025-05-05 22:42:52 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:43:28.540860379
+commit             130
+memory             0
+execution          311
+operation          147160
+transaction        133
+abort              3
+abort_rate         2.26%
+25us               0
+50us               0
+100us              0
+>100us             130
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       362423us
+latency(99%)       2288398us
+
+
+
+========== 测试时间: 2025-05-05 22:42:53 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:43:29.539702105
+commit             122
+memory             0
+execution          314
+operation          138104
+transaction        125
+abort              3
+abort_rate         2.40%
+25us               0
+50us               0
+100us              0
+>100us             122
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       351500us
+latency(99%)       2322538us
+
+
+
+========== 测试时间: 2025-05-05 22:44:49 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:45:25.265939561
+commit             18
+memory             0
+execution          274
+operation          20376
+transaction        31
+abort              13
+abort_rate         41.94%
+25us               0
+50us               0
+100us              0
+>100us             18
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       350124us
+
+
+
+========== 测试时间: 2025-05-05 22:44:49 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:45:26.077141915
+commit             19
+memory             0
+execution          271
+operation          21508
+transaction        31
+abort              12
+abort_rate         38.71%
+25us               0
+50us               0
+100us              0
+>100us             19
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       356289us
+
+
+
+========== 测试时间: 2025-05-05 22:44:50 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:45:27.168452864
+commit             24
+memory             0
+execution          278
+operation          27168
+transaction        34
+abort              10
+abort_rate         29.41%
+25us               0
+50us               0
+100us              0
+>100us             24
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       360172us
+
+
+
+========== 测试时间: 2025-05-05 22:44:51 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:45:27.790842055
+commit             22
+memory             0
+execution          277
+operation          24904
+transaction        35
+abort              13
+abort_rate         37.14%
+25us               0
+50us               0
+100us              0
+>100us             22
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       382522us
+
+
+
+========== 测试时间: 2025-05-05 22:44:52 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:45:28.658628236
+commit             9
+memory             0
+execution          284
+operation          10188
+transaction        25
+abort              16
+abort_rate         64.00%
+25us               0
+50us               0
+100us              0
+>100us             9
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-05 22:46:09 ==========
+测试参数:
+账户数量: 3000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:46:45.597020611
+commit             17
+memory             0
+execution          312
+operation          19244
+transaction        113
+abort              96
+abort_rate         84.96%
+25us               0
+50us               0
+100us              0
+>100us             17
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       284738us
+
+
+
+========== 测试时间: 2025-05-05 22:46:10 ==========
+测试参数:
+账户数量: 3000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:46:46.755683621
+commit             10
+memory             0
+execution          310
+operation          11320
+transaction        109
+abort              99
+abort_rate         90.83%
+25us               0
+50us               0
+100us              0
+>100us             10
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       214726us
+
+
+
+========== 测试时间: 2025-05-05 22:46:11 ==========
+测试参数:
+账户数量: 3000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:46:48.056410124
+commit             15
+memory             0
+execution          309
+operation          16980
+transaction        109
+abort              94
+abort_rate         86.24%
+25us               0
+50us               0
+100us              0
+>100us             15
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       280395us
+
+
+
+========== 测试时间: 2025-05-05 22:46:12 ==========
+测试参数:
+账户数量: 3000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:46:48.683992266
+commit             23
+memory             0
+execution          308
+operation          26036
+transaction        111
+abort              88
+abort_rate         79.28%
+25us               0
+50us               0
+100us              0
+>100us             23
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       373040us
+
+
+
+========== 测试时间: 2025-05-05 22:46:14 ==========
+测试参数:
+账户数量: 3000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:46:50.471892922
+commit             17
+memory             0
+execution          310
+operation          19244
+transaction        110
+abort              93
+abort_rate         84.55%
+25us               0
+50us               0
+100us              0
+>100us             17
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       320986us
+
+
+
+========== 测试时间: 2025-05-05 22:47:07 ==========
+测试参数:
+账户数量: 3000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:47:43.867182114
+commit             24
+memory             0
+execution          382
+operation          27168
+transaction        138
+abort              114
+abort_rate         82.61%
+25us               0
+50us               0
+100us              0
+>100us             24
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       396207us
+
+
+
+========== 测试时间: 2025-05-05 22:48:05 ==========
+测试参数:
+账户数量: 30000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:48:41.899823405
+commit             51
+memory             0
+execution          400
+operation          57732
+transaction        155
+abort              104
+abort_rate         67.10%
+25us               0
+50us               0
+100us              0
+>100us             51
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       199439us
+latency(99%)       426304us
+
+
+
+========== 测试时间: 2025-05-05 22:49:13 ==========
+测试参数:
+账户数量: 30000000
+线程数量: 4
+Zipf指数: 0.8
+运行时间: 36秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:49:49.397420370
+commit             246
+memory             0
+execution          383
+operation          278472
+transaction        265
+abort              19
+abort_rate         7.17%
+25us               0
+50us               0
+100us              0
+>100us             246
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       409863us
+latency(99%)       488876us
+
+
+
+========== 测试时间: 2025-05-05 22:50:36 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:51:26.293017134
+commit             66
+memory             0
+execution          545
+operation          74712
+transaction        208
+abort              142
+abort_rate         68.27%
+25us               0
+50us               0
+100us              0
+>100us             66
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       292574us
+latency(99%)       437459us
+
+
+
+========== 测试时间: 2025-05-05 22:52:00 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:52:50.910117887
+commit             170
+memory             0
+execution          549
+operation          192440
+transaction        253
+abort              83
+abort_rate         32.81%
+25us               0
+50us               0
+100us              0
+>100us             170
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       390544us
+latency(99%)       478845us
+
+
+
+========== 测试时间: 2025-05-05 22:53:18 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:54:08.491746811
+commit             108
+memory             0
+execution          421
+operation          122256
+transaction        186
+abort              78
+abort_rate         41.94%
+25us               0
+50us               0
+100us              0
+>100us             108
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       367153us
+latency(99%)       476695us
+
+
+
+========== 测试时间: 2025-05-05 22:53:19 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:54:09.400253411
+commit             95
+memory             0
+execution          421
+operation          107540
+transaction        179
+abort              84
+abort_rate         46.93%
+25us               0
+50us               0
+100us              0
+>100us             95
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       366367us
+latency(99%)       474598us
+
+
+
+========== 测试时间: 2025-05-05 22:53:19 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:54:10.200690670
+commit             122
+memory             0
+execution          423
+operation          138104
+transaction        192
+abort              70
+abort_rate         36.46%
+25us               0
+50us               0
+100us              0
+>100us             122
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       387285us
+latency(99%)       471271us
+
+
+
+========== 测试时间: 2025-05-05 22:53:20 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:54:10.738382339
+commit             112
+memory             0
+execution          420
+operation          126784
+transaction        190
+abort              78
+abort_rate         41.05%
+25us               0
+50us               0
+100us              0
+>100us             112
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       387776us
+latency(99%)       478027us
+
+
+
+========== 测试时间: 2025-05-05 22:53:21 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:54:11.428212382
+commit             97
+memory             0
+execution          421
+operation          109804
+transaction        175
+abort              78
+abort_rate         44.57%
+25us               0
+50us               0
+100us              0
+>100us             97
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       359444us
+latency(99%)       473016us
+
+
+
+========== 测试时间: 2025-05-05 22:54:43 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:55:33.700272375
+commit             131
+memory             0
+execution          425
+operation          148292
+transaction        195
+abort              64
+abort_rate         32.82%
+25us               0
+50us               0
+100us              0
+>100us             131
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       391391us
+latency(99%)       477741us
+
+
+
+========== 测试时间: 2025-05-05 22:54:44 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:55:34.642167444
+commit             113
+memory             0
+execution          419
+operation          127916
+transaction        187
+abort              74
+abort_rate         39.57%
+25us               0
+50us               0
+100us              0
+>100us             113
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       390535us
+latency(99%)       481180us
+
+
+
+========== 测试时间: 2025-05-05 22:54:45 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:55:35.398769490
+commit             103
+memory             0
+execution          417
+operation          116596
+transaction        184
+abort              81
+abort_rate         44.02%
+25us               0
+50us               0
+100us              0
+>100us             103
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       397156us
+latency(99%)       470212us
+
+
+
+========== 测试时间: 2025-05-05 22:54:45 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:55:36.393308719
+commit             118
+memory             0
+execution          414
+operation          133576
+transaction        187
+abort              69
+abort_rate         36.90%
+25us               0
+50us               0
+100us              0
+>100us             118
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       403243us
+latency(99%)       480472us
+
+
+
+========== 测试时间: 2025-05-05 22:54:46 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:55:37.009813644
+commit             89
+memory             0
+execution          404
+operation          100748
+transaction        170
+abort              81
+abort_rate         47.65%
+25us               0
+50us               0
+100us              0
+>100us             89
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       356341us
+latency(99%)       472775us
+
+
+
+========== 测试时间: 2025-05-05 22:56:11 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:57:02.193513272
+commit             154
+memory             0
+execution          465
+operation          174328
+transaction        222
+abort              68
+abort_rate         30.63%
+25us               0
+50us               0
+100us              0
+>100us             154
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       401476us
+latency(99%)       494555us
+
+
+
+========== 测试时间: 2025-05-05 22:56:12 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:57:02.679562149
+commit             158
+memory             0
+execution          463
+operation          178856
+transaction        227
+abort              69
+abort_rate         30.40%
+25us               0
+50us               0
+100us              0
+>100us             158
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       395501us
+latency(99%)       482999us
+
+
+
+========== 测试时间: 2025-05-05 22:56:13 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:57:03.567398286
+commit             146
+memory             0
+execution          457
+operation          165272
+transaction        218
+abort              72
+abort_rate         33.03%
+25us               0
+50us               0
+100us              0
+>100us             146
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       373545us
+latency(99%)       2303008us
+
+
+
+========== 测试时间: 2025-05-05 22:57:58 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:58:48.394104655
+commit             130
+memory             0
+execution          462
+operation          147160
+transaction        209
+abort              79
+abort_rate         37.80%
+25us               0
+50us               0
+100us              0
+>100us             130
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       384960us
+latency(99%)       470053us
+
+
+
+========== 测试时间: 2025-05-05 22:57:59 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:58:49.459512320
+commit             175
+memory             0
+execution          461
+operation          198100
+transaction        236
+abort              61
+abort_rate         25.85%
+25us               0
+50us               0
+100us              0
+>100us             175
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       402932us
+latency(99%)       497720us
+
+
+
+========== 测试时间: 2025-05-05 22:57:59 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 14:58:50.075840670
+commit             136
+memory             0
+execution          457
+operation          153952
+transaction        219
+abort              83
+abort_rate         37.90%
+25us               0
+50us               0
+100us              0
+>100us             136
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       385631us
+latency(99%)       499089us
+
+
+
+========== 测试时间: 2025-05-05 22:59:28 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:00:18.216000251
+commit             128
+memory             0
+execution          470
+operation          144896
+transaction        214
+abort              86
+abort_rate         40.19%
+25us               0
+50us               0
+100us              0
+>100us             128
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       368789us
+latency(99%)       485604us
+
+
+
+========== 测试时间: 2025-05-05 22:59:30 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:00:20.423395333
+commit             179
+memory             0
+execution          469
+operation          202628
+transaction        238
+abort              59
+abort_rate         24.79%
+25us               0
+50us               0
+100us              0
+>100us             179
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       404838us
+latency(99%)       2240003us
+
+
+
+========== 测试时间: 2025-05-05 22:59:31 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:00:21.215972107
+commit             127
+memory             0
+execution          463
+operation          143764
+transaction        206
+abort              79
+abort_rate         38.35%
+25us               0
+50us               0
+100us              0
+>100us             127
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       376788us
+latency(99%)       485474us
+
+
+
+========== 测试时间: 2025-05-05 23:06:33 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:07:23.812729257
+commit             147
+memory             0
+execution          465
+operation          166404
+transaction        221
+abort              74
+abort_rate         33.48%
+25us               0
+50us               0
+100us              0
+>100us             147
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       384508us
+latency(99%)       2233342us
+
+
+
+========== 测试时间: 2025-05-05 23:06:32 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:07:24.414503427
+commit             130
+memory             0
+execution          466
+operation          147160
+transaction        215
+abort              85
+abort_rate         39.53%
+25us               0
+50us               0
+100us              0
+>100us             130
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       373317us
+latency(99%)       494239us
+
+
+
+========== 测试时间: 2025-05-05 23:06:35 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:07:27.089250171
+commit             114
+memory             0
+execution          461
+operation          129048
+transaction        201
+abort              87
+abort_rate         43.28%
+25us               0
+50us               0
+100us              0
+>100us             114
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       359922us
+latency(99%)       498206us
+
+
+
+========== 测试时间: 2025-05-05 23:08:00 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:08:50.391349680
+commit             130
+memory             0
+execution          457
+operation          147160
+transaction        210
+abort              80
+abort_rate         38.10%
+25us               0
+50us               0
+100us              0
+>100us             130
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       379124us
+latency(99%)       493186us
+
+
+
+========== 测试时间: 2025-05-05 23:08:01 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:08:51.086494410
+commit             142
+memory             0
+execution          454
+operation          160744
+transaction        214
+abort              72
+abort_rate         33.64%
+25us               0
+50us               0
+100us              0
+>100us             142
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       391206us
+latency(99%)       2261455us
+
+
+
+========== 测试时间: 2025-05-05 23:08:01 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:08:52.041901998
+commit             142
+memory             0
+execution          453
+operation          160744
+transaction        212
+abort              70
+abort_rate         33.02%
+25us               0
+50us               0
+100us              0
+>100us             142
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       372137us
+latency(99%)       2129316us
+
+
+
+========== 测试时间: 2025-05-05 23:11:08 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:11:59.350013882
+commit             144
+memory             0
+execution          463
+operation          163008
+transaction        217
+abort              73
+abort_rate         33.64%
+25us               0
+50us               0
+100us              0
+>100us             144
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       387202us
+latency(99%)       2329952us
+
+
+
+========== 测试时间: 2025-05-05 23:11:12 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:12:02.668836932
+commit             128
+memory             0
+execution          459
+operation          144896
+transaction        211
+abort              83
+abort_rate         39.34%
+25us               0
+50us               0
+100us              0
+>100us             128
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       371834us
+latency(99%)       2256421us
+
+
+
+========== 测试时间: 2025-05-05 23:11:11 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:12:03.188645458
+commit             157
+memory             0
+execution          457
+operation          177724
+transaction        222
+abort              65
+abort_rate         29.28%
+25us               0
+50us               0
+100us              0
+>100us             157
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       388930us
+latency(99%)       2238636us
+
+
+
+========== 测试时间: 2025-05-05 23:13:13 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:14:04.364877956
+commit             159
+memory             0
+execution          443
+operation          179988
+transaction        216
+abort              57
+abort_rate         26.39%
+25us               0
+50us               0
+100us              0
+>100us             159
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       381519us
+latency(99%)       2329599us
+
+
+
+========== 测试时间: 2025-05-05 23:13:15 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:14:05.511365539
+commit             165
+memory             0
+execution          451
+operation          186780
+transaction        224
+abort              59
+abort_rate         26.34%
+25us               0
+50us               0
+100us              0
+>100us             165
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       376695us
+latency(99%)       2354088us
+
+
+
+========== 测试时间: 2025-05-05 23:13:14 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:14:05.861146209
+commit             146
+memory             0
+execution          450
+operation          165272
+transaction        216
+abort              70
+abort_rate         32.41%
+25us               0
+50us               0
+100us              0
+>100us             146
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       383265us
+latency(99%)       2367510us
+
+
+
+========== 测试时间: 2025-05-05 23:15:37 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:16:28.566834796
+commit             181
+memory             0
+execution          469
+operation          204892
+transaction        244
+abort              63
+abort_rate         25.82%
+25us               0
+50us               0
+100us              0
+>100us             181
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       392074us
+latency(99%)       2281814us
+
+
+
+========== 测试时间: 2025-05-05 23:15:40 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:16:30.332244970
+commit             156
+memory             0
+execution          454
+operation          176592
+transaction        218
+abort              62
+abort_rate         28.44%
+25us               0
+50us               0
+100us              0
+>100us             156
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       375864us
+latency(99%)       2371552us
+
+
+
+========== 测试时间: 2025-05-05 23:15:39 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:16:31.482347393
+commit             175
+memory             0
+execution          463
+operation          198100
+transaction        234
+abort              59
+abort_rate         25.21%
+25us               0
+50us               0
+100us              0
+>100us             175
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       378190us
+latency(99%)       2429061us
+
+
+
+========== 测试时间: 2025-05-05 23:17:03 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:17:54.246496836
+commit             125
+memory             0
+execution          460
+operation          141500
+transaction        204
+abort              79
+abort_rate         38.73%
+25us               0
+50us               0
+100us              0
+>100us             125
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       362609us
+latency(99%)       2263224us
+
+
+
+========== 测试时间: 2025-05-05 23:17:04 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:17:55.167731517
+commit             168
+memory             0
+execution          467
+operation          190176
+transaction        235
+abort              67
+abort_rate         28.51%
+25us               0
+50us               0
+100us              0
+>100us             168
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       392230us
+latency(99%)       2313665us
+
+
+
+========== 测试时间: 2025-05-05 23:17:04 ==========
+测试参数:
+账户数量: 50000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:17:55.616395382
+commit             176
+memory             0
+execution          475
+operation          199232
+transaction        242
+abort              66
+abort_rate         27.27%
+25us               0
+50us               0
+100us              0
+>100us             176
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       393425us
+latency(99%)       2361851us
+
+
+
+========== 测试时间: 2025-05-05 23:21:39 ==========
+测试参数:
+账户数量: 25000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:22:29.195541512
+commit             161
+memory             0
+execution          479
+operation          182252
+transaction        235
+abort              74
+abort_rate         31.49%
+25us               0
+50us               0
+100us              0
+>100us             161
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       372751us
+latency(99%)       2345460us
+
+
+
+========== 测试时间: 2025-05-05 23:21:39 ==========
+测试参数:
+账户数量: 25000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:22:30.178032635
+commit             149
+memory             0
+execution          466
+operation          168668
+transaction        216
+abort              67
+abort_rate         31.02%
+25us               0
+50us               0
+100us              0
+>100us             149
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       374904us
+latency(99%)       2236262us
+
+
+
+========== 测试时间: 2025-05-05 23:21:41 ==========
+测试参数:
+账户数量: 25000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 50秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:22:32.017574272
+commit             156
+memory             0
+execution          467
+operation          176592
+transaction        225
+abort              69
+abort_rate         30.67%
+25us               0
+50us               0
+100us              0
+>100us             156
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       386818us
+latency(99%)       2387984us
+
+
+
+========== 测试时间: 2025-05-05 23:25:17 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:25:52.269608248
+commit             93
+memory             0
+execution          308
+operation          105276
+transaction        143
+abort              50
+abort_rate         34.97%
+25us               0
+50us               0
+100us              0
+>100us             93
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       283114us
+latency(99%)       2263404us
+
+
+
+========== 测试时间: 2025-05-05 23:25:16 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:25:52.944545701
+commit             94
+memory             0
+execution          318
+operation          106408
+transaction        145
+abort              51
+abort_rate         35.17%
+25us               0
+50us               0
+100us              0
+>100us             94
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       334151us
+latency(99%)       2227794us
+
+
+
+========== 测试时间: 2025-05-05 23:25:18 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:25:54.155059220
+commit             100
+memory             0
+execution          321
+operation          113200
+transaction        155
+abort              55
+abort_rate         35.48%
+25us               0
+50us               0
+100us              0
+>100us             100
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       266289us
+latency(99%)       2206943us
+
+
+
+========== 测试时间: 2025-05-05 23:27:26 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:28:11.950805308
+commit             103
+memory             0
+execution          417
+operation          116596
+transaction        183
+abort              80
+abort_rate         43.72%
+25us               0
+50us               0
+100us              0
+>100us             103
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       300603us
+latency(99%)       2313373us
+
+
+
+========== 测试时间: 2025-05-05 23:27:27 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:28:12.993912871
+commit             99
+memory             0
+execution          415
+operation          112068
+transaction        179
+abort              80
+abort_rate         44.69%
+25us               0
+50us               0
+100us              0
+>100us             99
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       311121us
+latency(99%)       2330495us
+
+
+
+========== 测试时间: 2025-05-05 23:27:28 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 0.9
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:28:14.393215903
+commit             101
+memory             0
+execution          417
+operation          114332
+transaction        183
+abort              82
+abort_rate         44.81%
+25us               0
+50us               0
+100us              0
+>100us             101
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       319851us
+latency(99%)       2276459us
+
+
+
+========== 测试时间: 2025-05-05 23:41:53 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:42:28.622627118
+commit             39
+memory             0
+execution          391
+operation          44148
+transaction        147
+abort              108
+abort_rate         73.47%
+25us               0
+50us               0
+100us              0
+>100us             39
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       394205us
+
+
+
+========== 测试时间: 2025-05-05 23:47:30 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:48:05.735440881
+commit             23
+memory             0
+execution          365
+operation          26036
+transaction        132
+abort              109
+abort_rate         82.58%
+25us               0
+50us               0
+100us              0
+>100us             23
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       389482us
+
+
+
+========== 测试时间: 2025-05-05 23:48:16 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:48:51.801003733
+commit             34
+memory             0
+execution          304
+operation          38488
+transaction        116
+abort              82
+abort_rate         70.69%
+25us               0
+50us               0
+100us              0
+>100us             34
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       393272us
+
+
+
+========== 测试时间: 2025-05-05 23:48:17 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:48:52.900999711
+commit             26
+memory             0
+execution          298
+operation          29432
+transaction        113
+abort              87
+abort_rate         76.99%
+25us               0
+50us               0
+100us              0
+>100us             26
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       397905us
+
+
+
+========== 测试时间: 2025-05-05 23:48:21 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:48:56.267706386
+commit             16
+memory             0
+execution          308
+operation          18112
+transaction        110
+abort              94
+abort_rate         85.45%
+25us               0
+50us               0
+100us              0
+>100us             16
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       323077us
+
+
+
+========== 测试时间: 2025-05-05 23:49:32 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:50:08.291113025
+commit             18
+memory             0
+execution          308
+operation          20376
+transaction        110
+abort              92
+abort_rate         83.64%
+25us               0
+50us               0
+100us              0
+>100us             18
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       337525us
+
+
+
+========== 测试时间: 2025-05-05 23:49:33 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:50:08.947505227
+commit             33
+memory             0
+execution          301
+operation          37356
+transaction        115
+abort              82
+abort_rate         71.30%
+25us               0
+50us               0
+100us              0
+>100us             33
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       410046us
+
+
+
+========== 测试时间: 2025-05-05 23:49:34 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:50:09.831266201
+commit             24
+memory             0
+execution          302
+operation          27168
+transaction        111
+abort              87
+abort_rate         78.38%
+25us               0
+50us               0
+100us              0
+>100us             24
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       409944us
+
+
+
+========== 测试时间: 2025-05-05 23:54:31 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:55:06.480182768
+commit             22
+memory             0
+execution          305
+operation          24904
+transaction        113
+abort              91
+abort_rate         80.53%
+25us               0
+50us               0
+100us              0
+>100us             22
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       406726us
+
+
+
+========== 测试时间: 2025-05-05 23:54:32 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:55:07.687111249
+commit             32
+memory             0
+execution          303
+operation          36224
+transaction        119
+abort              87
+abort_rate         73.11%
+25us               0
+50us               0
+100us              0
+>100us             32
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       389221us
+
+
+
+========== 测试时间: 2025-05-05 23:54:33 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:55:08.539827643
+commit             26
+memory             0
+execution          305
+operation          29432
+transaction        115
+abort              89
+abort_rate         77.39%
+25us               0
+50us               0
+100us              0
+>100us             26
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       398066us
+
+
+
+========== 测试时间: 2025-05-05 23:56:14 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:56:49.374187881
+commit             32
+memory             0
+execution          273
+operation          36224
+transaction        107
+abort              75
+abort_rate         70.09%
+25us               0
+50us               0
+100us              0
+>100us             32
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       435079us
+
+
+
+========== 测试时间: 2025-05-05 23:56:15 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:56:50.360780382
+commit             31
+memory             0
+execution          273
+operation          35092
+transaction        107
+abort              76
+abort_rate         71.03%
+25us               0
+50us               0
+100us              0
+>100us             31
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       434137us
+
+
+
+========== 测试时间: 2025-05-05 23:56:15 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:56:51.345494613
+commit             25
+memory             0
+execution          272
+operation          28300
+transaction        101
+abort              76
+abort_rate         75.25%
+25us               0
+50us               0
+100us              0
+>100us             25
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       398644us
+
+
+
+========== 测试时间: 2025-05-05 23:56:16 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:56:52.123545788
+commit             20
+memory             0
+execution          272
+operation          22640
+transaction        103
+abort              83
+abort_rate         80.58%
+25us               0
+50us               0
+100us              0
+>100us             20
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       352987us
+
+
+
+========== 测试时间: 2025-05-05 23:57:53 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:58:28.872437159
+commit             25
+memory             0
+execution          333
+operation          28300
+transaction        124
+abort              99
+abort_rate         79.84%
+25us               0
+50us               0
+100us              0
+>100us             25
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       389559us
+
+
+
+========== 测试时间: 2025-05-05 23:57:54 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 15:58:29.968639723
+commit             36
+memory             0
+execution          330
+operation          40752
+transaction        127
+abort              91
+abort_rate         71.65%
+25us               0
+50us               0
+100us              0
+>100us             36
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       464315us
+
+
+
+========== 测试时间: 2025-05-05 23:59:48 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:00:23.710832272
+commit             20
+memory             0
+execution          259
+operation          22640
+transaction        95
+abort              75
+abort_rate         78.95%
+25us               0
+50us               0
+100us              0
+>100us             20
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       384583us
+
+
+
+========== 测试时间: 2025-05-05 23:59:49 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:00:24.894578041
+commit             29
+memory             0
+execution          261
+operation          32828
+transaction        101
+abort              72
+abort_rate         71.29%
+25us               0
+50us               0
+100us              0
+>100us             29
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       436030us
+
+
+
+========== 测试时间: 2025-05-05 23:59:50 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:00:25.508342435
+commit             17
+memory             0
+execution          259
+operation          19244
+transaction        96
+abort              79
+abort_rate         82.29%
+25us               0
+50us               0
+100us              0
+>100us             17
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       376723us
+
+
+
+========== 测试时间: 2025-05-05 23:59:51 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:00:26.490470458
+commit             32
+memory             0
+execution          259
+operation          36224
+transaction        102
+abort              70
+abort_rate         68.63%
+25us               0
+50us               0
+100us              0
+>100us             32
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       446487us
+
+
+
+========== 测试时间: 2025-05-05 23:59:52 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:00:27.129915378
+commit             25
+memory             0
+execution          256
+operation          28300
+transaction        96
+abort              71
+abort_rate         73.96%
+25us               0
+50us               0
+100us              0
+>100us             25
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       458647us
+
+
+
+========== 测试时间: 2025-05-06 00:01:26 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:02:02.344653224
+commit             16
+memory             0
+execution          269
+operation          18112
+transaction        98
+abort              82
+abort_rate         83.67%
+25us               0
+50us               0
+100us              0
+>100us             16
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       414308us
+
+
+
+========== 测试时间: 2025-05-06 00:01:27 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:02:03.231093569
+commit             22
+memory             0
+execution          262
+operation          24904
+transaction        99
+abort              77
+abort_rate         77.78%
+25us               0
+50us               0
+100us              0
+>100us             22
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       433334us
+
+
+
+========== 测试时间: 2025-05-06 00:01:28 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:02:03.995309531
+commit             19
+memory             0
+execution          259
+operation          21508
+transaction        95
+abort              76
+abort_rate         80.00%
+25us               0
+50us               0
+100us              0
+>100us             19
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       376486us
+
+
+
+========== 测试时间: 2025-05-06 00:01:29 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:02:04.788965612
+commit             22
+memory             0
+execution          264
+operation          24904
+transaction        96
+abort              74
+abort_rate         77.08%
+25us               0
+50us               0
+100us              0
+>100us             22
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       357863us
+
+
+
+========== 测试时间: 2025-05-06 00:01:30 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:02:05.713365191
+commit             30
+memory             0
+execution          268
+operation          33960
+transaction        105
+abort              75
+abort_rate         71.43%
+25us               0
+50us               0
+100us              0
+>100us             30
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       414084us
+
+
+
+========== 测试时间: 2025-05-06 00:05:33 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:06:08.611154035
+commit             16
+memory             0
+execution          273
+operation          18112
+transaction        99
+abort              83
+abort_rate         83.84%
+25us               0
+50us               0
+100us              0
+>100us             16
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       339579us
+
+
+
+========== 测试时间: 2025-05-06 00:05:35 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:06:10.830521475
+commit             20
+memory             0
+execution          268
+operation          22640
+transaction        98
+abort              78
+abort_rate         79.59%
+25us               0
+50us               0
+100us              0
+>100us             20
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       397702us
+
+
+
+========== 测试时间: 2025-05-06 00:05:36 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:06:12.082393550
+commit             21
+memory             0
+execution          268
+operation          23772
+transaction        100
+abort              79
+abort_rate         79.00%
+25us               0
+50us               0
+100us              0
+>100us             21
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       410610us
+
+
+
+========== 测试时间: 2025-05-06 00:05:36 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:06:13.098911014
+commit             28
+memory             0
+execution          262
+operation          31696
+transaction        98
+abort              70
+abort_rate         71.43%
+25us               0
+50us               0
+100us              0
+>100us             28
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       454668us
+
+
+
+========== 测试时间: 2025-05-06 00:06:24 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:07:00.003633454
+commit             21
+memory             0
+execution          283
+operation          23772
+transaction        103
+abort              82
+abort_rate         79.61%
+25us               0
+50us               0
+100us              0
+>100us             21
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       373517us
+
+
+
+========== 测试时间: 2025-05-06 00:06:29 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:07:05.208722357
+commit             16
+memory             0
+execution          272
+operation          18112
+transaction        99
+abort              83
+abort_rate         83.84%
+25us               0
+50us               0
+100us              0
+>100us             16
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       350081us
+
+
+
+========== 测试时间: 2025-05-06 00:06:33 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:07:08.489939909
+commit             18
+memory             0
+execution          268
+operation          20376
+transaction        97
+abort              79
+abort_rate         81.44%
+25us               0
+50us               0
+100us              0
+>100us             18
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       423448us
+
+
+
+========== 测试时间: 2025-05-06 00:06:34 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:07:09.382415921
+commit             20
+memory             0
+execution          268
+operation          22640
+transaction        99
+abort              79
+abort_rate         79.80%
+25us               0
+50us               0
+100us              0
+>100us             20
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       378585us
+
+
+
+========== 测试时间: 2025-05-06 00:06:37 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:07:12.860537793
+commit             25
+memory             0
+execution          273
+operation          28300
+transaction        102
+abort              77
+abort_rate         75.49%
+25us               0
+50us               0
+100us              0
+>100us             25
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       426849us
+
+
+
+========== 测试时间: 2025-05-06 00:07:23 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:07:59.081498193
+commit             28
+memory             0
+execution          307
+operation          31696
+transaction        114
+abort              86
+abort_rate         75.44%
+25us               0
+50us               0
+100us              0
+>100us             28
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       435680us
+
+
+
+========== 测试时间: 2025-05-06 00:07:24 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:07:59.995132762
+commit             22
+memory             0
+execution          308
+operation          24904
+transaction        111
+abort              89
+abort_rate         80.18%
+25us               0
+50us               0
+100us              0
+>100us             22
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       399940us
+
+
+
+========== 测试时间: 2025-05-06 00:07:25 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 35秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:08:02.455827423
+commit             18
+memory             0
+execution          306
+operation          20376
+transaction        111
+abort              93
+abort_rate         83.78%
+25us               0
+50us               0
+100us              0
+>100us             18
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       367140us
+
+
+
+========== 测试时间: 2025-05-06 00:09:25 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:10:02.468273422
+commit             28
+memory             0
+execution          283
+operation          31696
+transaction        109
+abort              81
+abort_rate         74.31%
+25us               0
+50us               0
+100us              0
+>100us             28
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       456940us
+
+
+
+========== 测试时间: 2025-05-06 00:09:26 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:10:03.556811315
+commit             22
+memory             0
+execution          279
+operation          24904
+transaction        103
+abort              81
+abort_rate         78.64%
+25us               0
+50us               0
+100us              0
+>100us             22
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       408839us
+
+
+
+========== 测试时间: 2025-05-06 00:09:27 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:10:04.518931940
+commit             25
+memory             0
+execution          280
+operation          28300
+transaction        102
+abort              77
+abort_rate         75.49%
+25us               0
+50us               0
+100us              0
+>100us             25
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       421764us
+
+
+
+========== 测试时间: 2025-05-06 00:09:28 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:10:05.715119805
+commit             25
+memory             0
+execution          281
+operation          28300
+transaction        107
+abort              82
+abort_rate         76.64%
+25us               0
+50us               0
+100us              0
+>100us             25
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       339630us
+
+
+
+========== 测试时间: 2025-05-06 00:09:29 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:10:06.632092807
+commit             19
+memory             0
+execution          276
+operation          21508
+transaction        99
+abort              80
+abort_rate         80.81%
+25us               0
+50us               0
+100us              0
+>100us             19
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       441880us
+
+
+
+========== 测试时间: 2025-05-06 00:10:41 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:11:19.070011223
+commit             19
+memory             0
+execution          321
+operation          21508
+transaction        117
+abort              98
+abort_rate         83.76%
+25us               0
+50us               0
+100us              0
+>100us             19
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       361185us
+
+
+
+========== 测试时间: 2025-05-06 00:10:42 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:11:19.898899373
+commit             23
+memory             0
+execution          321
+operation          26036
+transaction        119
+abort              96
+abort_rate         80.67%
+25us               0
+50us               0
+100us              0
+>100us             23
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       416320us
+
+
+
+========== 测试时间: 2025-05-06 00:10:43 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:11:21.980884726
+commit             34
+memory             0
+execution          319
+operation          38488
+transaction        120
+abort              86
+abort_rate         71.67%
+25us               0
+50us               0
+100us              0
+>100us             34
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       450840us
+
+
+
+========== 测试时间: 2025-05-06 00:12:44 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:13:21.873111948
+commit             21
+memory             0
+execution          281
+operation          23772
+transaction        105
+abort              84
+abort_rate         80.00%
+25us               0
+50us               0
+100us              0
+>100us             21
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       376829us
+
+
+
+========== 测试时间: 2025-05-06 00:12:45 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:13:22.852918695
+commit             19
+memory             0
+execution          275
+operation          21508
+transaction        99
+abort              80
+abort_rate         80.81%
+25us               0
+50us               0
+100us              0
+>100us             19
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       432970us
+
+
+
+========== 测试时间: 2025-05-06 00:12:46 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:13:23.585493223
+commit             20
+memory             0
+execution          279
+operation          22640
+transaction        101
+abort              81
+abort_rate         80.20%
+25us               0
+50us               0
+100us              0
+>100us             20
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       417580us
+
+
+
+========== 测试时间: 2025-05-06 00:12:47 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:13:24.925501099
+commit             19
+memory             0
+execution          274
+operation          21508
+transaction        102
+abort              83
+abort_rate         81.37%
+25us               0
+50us               0
+100us              0
+>100us             19
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       347869us
+
+
+
+========== 测试时间: 2025-05-06 00:12:48 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:13:25.675708148
+commit             36
+memory             0
+execution          272
+operation          40752
+transaction        106
+abort              70
+abort_rate         66.04%
+25us               0
+50us               0
+100us              0
+>100us             36
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       457394us
+
+
+
+========== 测试时间: 2025-05-06 00:13:41 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:14:18.944818155
+commit             23
+memory             0
+execution          282
+operation          26036
+transaction        103
+abort              80
+abort_rate         77.67%
+25us               0
+50us               0
+100us              0
+>100us             23
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       391995us
+
+
+
+========== 测试时间: 2025-05-06 00:13:44 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:14:21.283473866
+commit             27
+memory             0
+execution          271
+operation          30564
+transaction        102
+abort              75
+abort_rate         73.53%
+25us               0
+50us               0
+100us              0
+>100us             27
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       425036us
+
+
+
+========== 测试时间: 2025-05-06 00:13:44 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:14:22.385702251
+commit             17
+memory             0
+execution          271
+operation          19244
+transaction        99
+abort              82
+abort_rate         82.83%
+25us               0
+50us               0
+100us              0
+>100us             17
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       417849us
+
+
+
+========== 测试时间: 2025-05-06 00:13:46 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:14:23.338076946
+commit             23
+memory             0
+execution          267
+operation          26036
+transaction        99
+abort              76
+abort_rate         76.77%
+25us               0
+50us               0
+100us              0
+>100us             23
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       439758us
+
+
+
+========== 测试时间: 2025-05-06 00:13:47 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:14:26.524358889
+commit             20
+memory             0
+execution          272
+operation          22640
+transaction        98
+abort              78
+abort_rate         79.59%
+25us               0
+50us               0
+100us              0
+>100us             20
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       431861us
+
+
+
+========== 测试时间: 2025-05-06 00:15:58 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:16:35.635650686
+commit             42
+memory             0
+execution          305
+operation          47544
+transaction        120
+abort              78
+abort_rate         65.00%
+25us               0
+50us               0
+100us              0
+>100us             42
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       428408us
+
+
+
+========== 测试时间: 2025-05-06 00:15:59 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:16:36.869332514
+commit             24
+memory             0
+execution          303
+operation          27168
+transaction        113
+abort              89
+abort_rate         78.76%
+25us               0
+50us               0
+100us              0
+>100us             24
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       416859us
+
+
+
+========== 测试时间: 2025-05-06 00:16:00 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:16:37.738726154
+commit             22
+memory             0
+execution          304
+operation          24904
+transaction        112
+abort              90
+abort_rate         80.36%
+25us               0
+50us               0
+100us              0
+>100us             22
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       435820us
+
+
+
+========== 测试时间: 2025-05-06 00:16:01 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:16:38.647033512
+commit             16
+memory             0
+execution          298
+operation          18112
+transaction        109
+abort              93
+abort_rate         85.32%
+25us               0
+50us               0
+100us              0
+>100us             16
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       398381us
+
+
+
+========== 测试时间: 2025-05-06 00:17:10 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:17:48.064192784
+commit             26
+memory             0
+execution          281
+operation          29432
+transaction        109
+abort              83
+abort_rate         76.15%
+25us               0
+50us               0
+100us              0
+>100us             26
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       444699us
+
+
+
+========== 测试时间: 2025-05-06 00:17:12 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:17:49.922335824
+commit             29
+memory             0
+execution          271
+operation          32828
+transaction        105
+abort              76
+abort_rate         72.38%
+25us               0
+50us               0
+100us              0
+>100us             29
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       450340us
+
+
+
+========== 测试时间: 2025-05-06 00:17:13 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:17:50.818475793
+commit             29
+memory             0
+execution          272
+operation          32828
+transaction        104
+abort              75
+abort_rate         72.12%
+25us               0
+50us               0
+100us              0
+>100us             29
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       450523us
+
+
+
+========== 测试时间: 2025-05-06 00:17:14 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:17:51.613988535
+commit             28
+memory             0
+execution          274
+operation          31696
+transaction        104
+abort              76
+abort_rate         73.08%
+25us               0
+50us               0
+100us              0
+>100us             28
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       473768us
+
+
+
+========== 测试时间: 2025-05-06 00:17:15 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:17:52.813609133
+commit             26
+memory             0
+execution          271
+operation          29432
+transaction        104
+abort              78
+abort_rate         75.00%
+25us               0
+50us               0
+100us              0
+>100us             26
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       374584us
+
+
+
+========== 测试时间: 2025-05-06 00:18:03 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:18:40.405881860
+commit             26
+memory             0
+execution          281
+operation          29432
+transaction        106
+abort              80
+abort_rate         75.47%
+25us               0
+50us               0
+100us              0
+>100us             26
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       461211us
+
+
+
+========== 测试时间: 2025-05-06 00:18:04 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:18:41.530359241
+commit             26
+memory             0
+execution          277
+operation          29432
+transaction        102
+abort              76
+abort_rate         74.51%
+25us               0
+50us               0
+100us              0
+>100us             26
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       384270us
+
+
+
+========== 测试时间: 2025-05-06 00:18:07 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:18:44.466605196
+commit             21
+memory             0
+execution          277
+operation          23772
+transaction        102
+abort              81
+abort_rate         79.41%
+25us               0
+50us               0
+100us              0
+>100us             21
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       404283us
+
+
+
+========== 测试时间: 2025-05-06 00:18:08 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:18:45.615472291
+commit             25
+memory             0
+execution          274
+operation          28300
+transaction        103
+abort              78
+abort_rate         75.73%
+25us               0
+50us               0
+100us              0
+>100us             25
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       495101us
+
+
+
+========== 测试时间: 2025-05-06 00:18:09 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:18:46.530681420
+commit             29
+memory             0
+execution          278
+operation          32828
+transaction        107
+abort              78
+abort_rate         72.90%
+25us               0
+50us               0
+100us              0
+>100us             29
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       461773us
+
+
+
+========== 测试时间: 2025-05-06 00:19:45 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:20:23.673142969
+commit             26
+memory             0
+execution          309
+operation          29432
+transaction        112
+abort              86
+abort_rate         76.79%
+25us               0
+50us               0
+100us              0
+>100us             26
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       422384us
+
+
+
+========== 测试时间: 2025-05-06 00:19:47 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:20:25.087734622
+commit             19
+memory             0
+execution          306
+operation          21508
+transaction        112
+abort              93
+abort_rate         83.04%
+25us               0
+50us               0
+100us              0
+>100us             19
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       410134us
+
+
+
+========== 测试时间: 2025-05-06 00:19:47 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:20:25.339641342
+commit             17
+memory             0
+execution          304
+operation          19244
+transaction        109
+abort              92
+abort_rate         84.40%
+25us               0
+50us               0
+100us              0
+>100us             17
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       379240us
+
+
+
+========== 测试时间: 2025-05-06 00:21:34 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:22:12.246067032
+commit             1
+memory             0
+execution          276
+operation          1132
+transaction        95
+abort              94
+abort_rate         98.95%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:21:35 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:22:12.942952596
+commit             2
+memory             0
+execution          273
+operation          2264
+transaction        93
+abort              91
+abort_rate         97.85%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:21:36 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:22:13.772257521
+commit             2
+memory             0
+execution          268
+operation          2264
+transaction        92
+abort              90
+abort_rate         97.83%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:21:38 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:22:16.054154735
+commit             2
+memory             0
+execution          272
+operation          2264
+transaction        93
+abort              91
+abort_rate         97.85%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:21:40 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 37秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:22:17.771647574
+commit             1
+memory             0
+execution          279
+operation          1132
+transaction        95
+abort              94
+abort_rate         98.95%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:22:41 ==========
+测试参数:
+账户数量: 12000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:23:21.946483001
+commit             2
+memory             0
+execution          299
+operation          2264
+transaction        102
+abort              100
+abort_rate         98.04%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:22:42 ==========
+测试参数:
+账户数量: 12000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:23:23.056688759
+commit             2
+memory             0
+execution          299
+operation          2264
+transaction        103
+abort              101
+abort_rate         98.06%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:22:43 ==========
+测试参数:
+账户数量: 12000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:23:24.039139276
+commit             4
+memory             0
+execution          297
+operation          4528
+transaction        102
+abort              98
+abort_rate         96.08%
+25us               0
+50us               0
+100us              0
+>100us             4
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:22:45 ==========
+测试参数:
+账户数量: 12000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:23:25.302981396
+commit             2
+memory             0
+execution          291
+operation          2264
+transaction        99
+abort              97
+abort_rate         97.98%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:22:46 ==========
+测试参数:
+账户数量: 12000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:23:26.428197981
+commit             2
+memory             0
+execution          290
+operation          2264
+transaction        100
+abort              98
+abort_rate         98.00%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:37:46 ==========
+测试参数:
+账户数量: 12000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:38:26.173968151
+commit             3
+memory             0
+execution          442
+operation          3396
+transaction        149
+abort              146
+abort_rate         97.99%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:38:46 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:39:26.733582911
+commit             2
+memory             0
+execution          350
+operation          2264
+transaction        119
+abort              117
+abort_rate         98.32%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:38:47 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:39:28.128836870
+commit             1
+memory             0
+execution          353
+operation          1132
+transaction        120
+abort              119
+abort_rate         99.17%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:38:49 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:39:29.846111093
+commit             2
+memory             0
+execution          344
+operation          2264
+transaction        117
+abort              115
+abort_rate         98.29%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:38:51 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:39:31.727571714
+commit             4
+memory             0
+execution          336
+operation          4528
+transaction        115
+abort              111
+abort_rate         96.52%
+25us               0
+50us               0
+100us              0
+>100us             4
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:38:55 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:39:35.223065481
+commit             5
+memory             0
+execution          334
+operation          5660
+transaction        114
+abort              109
+abort_rate         95.61%
+25us               0
+50us               0
+100us              0
+>100us             5
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:39:44 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:40:25.058582904
+commit             3
+memory             0
+execution          364
+operation          3396
+transaction        124
+abort              121
+abort_rate         97.58%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:39:46 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:40:27.073245900
+commit             4
+memory             0
+execution          365
+operation          4528
+transaction        125
+abort              121
+abort_rate         96.80%
+25us               0
+50us               0
+100us              0
+>100us             4
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:39:48 ==========
+测试参数:
+账户数量: 10000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 40秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:40:28.354114621
+commit             3
+memory             0
+execution          357
+operation          3396
+transaction        122
+abort              119
+abort_rate         97.54%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:41:42 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:42:28.190799781
+commit             5
+memory             0
+execution          374
+operation          5660
+transaction        128
+abort              123
+abort_rate         96.09%
+25us               0
+50us               0
+100us              0
+>100us             5
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:41:43 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:42:29.160682703
+commit             3
+memory             0
+execution          369
+operation          3396
+transaction        126
+abort              123
+abort_rate         97.62%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:41:44 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:42:30.187445341
+commit             4
+memory             0
+execution          366
+operation          4528
+transaction        125
+abort              121
+abort_rate         96.80%
+25us               0
+50us               0
+100us              0
+>100us             4
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:41:46 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:42:31.377261671
+commit             4
+memory             0
+execution          362
+operation          4528
+transaction        125
+abort              121
+abort_rate         96.80%
+25us               0
+50us               0
+100us              0
+>100us             4
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:41:46 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:42:32.481406797
+commit             2
+memory             0
+execution          360
+operation          2264
+transaction        123
+abort              121
+abort_rate         98.37%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:42:52 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:43:37.261951637
+commit             2
+memory             0
+execution          378
+operation          2264
+transaction        129
+abort              127
+abort_rate         98.45%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:42:53 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:43:38.571053866
+commit             3
+memory             0
+execution          377
+operation          3396
+transaction        129
+abort              126
+abort_rate         97.67%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:42:54 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:43:39.689710785
+commit             2
+memory             0
+execution          375
+operation          2264
+transaction        127
+abort              125
+abort_rate         98.43%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:42:55 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:43:41.134192078
+commit             2
+memory             0
+execution          370
+operation          2264
+transaction        125
+abort              123
+abort_rate         98.40%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:42:56 ==========
+测试参数:
+账户数量: 9000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:43:42.481575211
+commit             2
+memory             0
+execution          358
+operation          2264
+transaction        122
+abort              120
+abort_rate         98.36%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:45:36 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 48秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:46:24.453261505
+commit             4
+memory             0
+execution          424
+operation          4528
+transaction        144
+abort              140
+abort_rate         97.22%
+25us               0
+50us               0
+100us              0
+>100us             4
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:45:37 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 48秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:46:25.673114505
+commit             5
+memory             0
+execution          417
+operation          5660
+transaction        143
+abort              138
+abort_rate         96.50%
+25us               0
+50us               0
+100us              0
+>100us             5
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:45:38 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 48秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:46:26.778000822
+commit             6
+memory             0
+execution          411
+operation          6792
+transaction        141
+abort              135
+abort_rate         95.74%
+25us               0
+50us               0
+100us              0
+>100us             6
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:45:40 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 48秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:46:28.435174778
+commit             1
+memory             0
+execution          414
+operation          1132
+transaction        140
+abort              139
+abort_rate         99.29%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:45:41 ==========
+测试参数:
+账户数量: 8000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 48秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:46:29.726502274
+commit             4
+memory             0
+execution          405
+operation          4528
+transaction        139
+abort              135
+abort_rate         97.12%
+25us               0
+50us               0
+100us              0
+>100us             4
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:48:23 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:49:08.755414732
+commit             1
+memory             0
+execution          380
+operation          1132
+transaction        128
+abort              127
+abort_rate         99.22%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:48:24 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:49:10.054496092
+commit             3
+memory             0
+execution          380
+operation          3396
+transaction        129
+abort              126
+abort_rate         97.67%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:48:25 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:49:11.367833931
+commit             3
+memory             0
+execution          373
+operation          3396
+transaction        127
+abort              124
+abort_rate         97.64%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:48:26 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:49:12.739614069
+commit             1
+memory             0
+execution          370
+operation          1132
+transaction        125
+abort              124
+abort_rate         99.20%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:48:27 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:49:12.966341766
+commit             2
+memory             0
+execution          366
+operation          2264
+transaction        124
+abort              122
+abort_rate         98.39%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:50:25 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:51:10.512138521
+commit             1
+memory             0
+execution          382
+operation          1132
+transaction        129
+abort              128
+abort_rate         99.22%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:50:26 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:51:11.736697987
+commit             1
+memory             0
+execution          375
+operation          1132
+transaction        127
+abort              126
+abort_rate         99.21%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:50:27 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:51:12.575495970
+commit             2
+memory             0
+execution          364
+operation          2264
+transaction        124
+abort              122
+abort_rate         98.39%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:50:28 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:51:13.711084684
+commit             1
+memory             0
+execution          360
+operation          1132
+transaction        122
+abort              121
+abort_rate         99.18%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:50:30 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 45秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:51:15.431020486
+commit             2
+memory             0
+execution          350
+operation          2264
+transaction        119
+abort              117
+abort_rate         98.32%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:52:12 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 48秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:53:00.856048428
+commit             3
+memory             0
+execution          419
+operation          3396
+transaction        143
+abort              140
+abort_rate         97.90%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:52:13 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 48秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:53:02.195924851
+commit             6
+memory             0
+execution          412
+operation          6792
+transaction        141
+abort              135
+abort_rate         95.74%
+25us               0
+50us               0
+100us              0
+>100us             6
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:52:14 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 48秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:53:02.816295733
+commit             2
+memory             0
+execution          405
+operation          2264
+transaction        138
+abort              136
+abort_rate         98.55%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:52:15 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 48秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:53:04.139618677
+commit             2
+memory             0
+execution          402
+operation          2264
+transaction        136
+abort              134
+abort_rate         98.53%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:52:17 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 48秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:53:06.115232710
+commit             2
+memory             0
+execution          401
+operation          2264
+transaction        136
+abort              134
+abort_rate         98.53%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:53:49 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 44秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:54:34.023496369
+commit             5
+memory             0
+execution          384
+operation          5660
+transaction        132
+abort              127
+abort_rate         96.21%
+25us               0
+50us               0
+100us              0
+>100us             5
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:53:51 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 44秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:54:35.999538528
+commit             3
+memory             0
+execution          382
+operation          3396
+transaction        130
+abort              127
+abort_rate         97.69%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:53:53 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 44秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:54:37.080724677
+commit             3
+memory             0
+execution          374
+operation          3396
+transaction        128
+abort              125
+abort_rate         97.66%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:53:56 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 44秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:54:40.155454813
+commit             2
+memory             0
+execution          359
+operation          2264
+transaction        121
+abort              119
+abort_rate         98.35%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:53:57 ==========
+测试参数:
+账户数量: 7000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 44秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:54:41.806979081
+commit             3
+memory             0
+execution          365
+operation          3396
+transaction        125
+abort              122
+abort_rate         97.60%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:56:13 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 46秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:56:59.171995289
+commit             4
+memory             0
+execution          384
+operation          4528
+transaction        132
+abort              128
+abort_rate         96.97%
+25us               0
+50us               0
+100us              0
+>100us             4
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:56:13 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 46秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:57:00.295713665
+commit             3
+memory             0
+execution          381
+operation          3396
+transaction        130
+abort              127
+abort_rate         97.69%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:56:15 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 46秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:57:01.405088438
+commit             8
+memory             0
+execution          370
+operation          9056
+transaction        130
+abort              122
+abort_rate         93.85%
+25us               0
+50us               0
+100us              0
+>100us             8
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:56:16 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 46秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:57:02.491344265
+commit             2
+memory             0
+execution          368
+operation          2264
+transaction        125
+abort              123
+abort_rate         98.40%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:56:17 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 46秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:57:03.695015823
+commit             2
+memory             0
+execution          366
+operation          2264
+transaction        124
+abort              122
+abort_rate         98.39%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:57:15 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 46秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:58:01.409150612
+commit             4
+memory             0
+execution          412
+operation          4528
+transaction        141
+abort              137
+abort_rate         97.16%
+25us               0
+50us               0
+100us              0
+>100us             4
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:57:16 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 46秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:58:02.806638001
+commit             3
+memory             0
+execution          411
+operation          3396
+transaction        141
+abort              138
+abort_rate         97.87%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:57:17 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 46秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:58:03.831718042
+commit             2
+memory             0
+execution          408
+operation          2264
+transaction        139
+abort              137
+abort_rate         98.56%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:57:18 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 46秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:58:04.935580860
+commit             1
+memory             0
+execution          399
+operation          1132
+transaction        135
+abort              134
+abort_rate         99.26%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:57:19 ==========
+测试参数:
+账户数量: 6000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 46秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:58:06.282870731
+commit             1
+memory             0
+execution          396
+operation          1132
+transaction        134
+abort              133
+abort_rate         99.25%
+25us               0
+50us               0
+100us              0
+>100us             1
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:58:59 ==========
+测试参数:
+账户数量: 2000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 55秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:59:54.491447564
+commit             3
+memory             0
+execution          468
+operation          3396
+transaction        159
+abort              156
+abort_rate         98.11%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:59:00 ==========
+测试参数:
+账户数量: 2000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 55秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:59:55.669984480
+commit             4
+memory             0
+execution          465
+operation          4528
+transaction        159
+abort              155
+abort_rate         97.48%
+25us               0
+50us               0
+100us              0
+>100us             4
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:59:01 ==========
+测试参数:
+账户数量: 2000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 55秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:59:57.087768863
+commit             6
+memory             0
+execution          456
+operation          6792
+transaction        156
+abort              150
+abort_rate         96.15%
+25us               0
+50us               0
+100us              0
+>100us             6
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:59:03 ==========
+测试参数:
+账户数量: 2000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 55秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 16:59:58.343446357
+commit             5
+memory             0
+execution          462
+operation          5660
+transaction        159
+abort              154
+abort_rate         96.86%
+25us               0
+50us               0
+100us              0
+>100us             5
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 00:59:04 ==========
+测试参数:
+账户数量: 2000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 55秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 17:00:00.239708273
+commit             2
+memory             0
+execution          454
+operation          2264
+transaction        153
+abort              151
+abort_rate         98.69%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 01:01:05 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 55秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 17:02:00.605975451
+commit             2
+memory             0
+execution          466
+operation          2264
+transaction        157
+abort              155
+abort_rate         98.73%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 01:01:06 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 55秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 17:02:01.766075245
+commit             2
+memory             0
+execution          462
+operation          2264
+transaction        156
+abort              154
+abort_rate         98.72%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 01:01:07 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 55秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 17:02:02.944665796
+commit             2
+memory             0
+execution          456
+operation          2264
+transaction        154
+abort              152
+abort_rate         98.70%
+25us               0
+50us               0
+100us              0
+>100us             2
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 01:01:08 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 55秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 17:02:03.945206541
+commit             3
+memory             0
+execution          455
+operation          3396
+transaction        154
+abort              151
+abort_rate         98.05%
+25us               0
+50us               0
+100us              0
+>100us             3
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+
+
+
+========== 测试时间: 2025-05-06 01:01:09 ==========
+测试参数:
+账户数量: 1000000
+线程数量: 4
+Zipf指数: 1.2
+运行时间: 55秒
+区块大小: 200
+区块间隔: 10秒
+跨链比例: 0
+
+统计信息:
+2025-05-05 17:02:05.095954800
+commit             5
+memory             0
+execution          449
+operation          5660
+transaction        153
+abort              148
+abort_rate         96.73%
+25us               0
+50us               0
+100us              0
+>100us             5
+latency(50%)       0us
+latency(75%)       0us
+latency(95%)       0us
+latency(99%)       0us
+

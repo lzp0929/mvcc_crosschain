@@ -13,10 +13,10 @@
 
 namespace spectrum {
 
-constexpr size_t NUM_ACCOUNTS = 10000000;
+constexpr size_t NUM_ACCOUNTS = 1000000;
 constexpr size_t NUM_THREADS = 4;
-constexpr double ZIPF_EXPONENT = 0.8;
-constexpr size_t RUN_SECONDS = 33;  // 增加运行时间到70秒
+constexpr double ZIPF_EXPONENT = 1.2;
+constexpr size_t RUN_SECONDS = 55;  // 增加运行时间到70秒
 
 TEST(TwoPhaseLockingCrossChainProTest, CanExecute) {
     // 创建日志目录
