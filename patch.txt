@@ -1,0 +1,9 @@
+    // 交易记录结构体
+    struct TxRecord {
+        size_t tx_id;
+        int64_t start_time;
+        int64_t finish_time;
+        int64_t latency;
+        bool is_cross_chain;
+    };
+    std::vector<TxRecord> tx_records;  // 存储前100笔交易的记录
